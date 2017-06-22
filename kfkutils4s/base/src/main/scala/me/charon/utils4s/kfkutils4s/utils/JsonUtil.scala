@@ -1,4 +1,4 @@
-package com.yidian.crawler4s.sprocessor.utils
+package me.charon.utils4s.kfkutils4s.utils
 
 import org.json4s.jackson.JsonMethods._
 import org.json4s.jackson.Serialization

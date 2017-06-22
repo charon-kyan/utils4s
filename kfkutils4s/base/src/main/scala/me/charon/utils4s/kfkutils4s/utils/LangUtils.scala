@@ -1,4 +1,4 @@
-package com.yidian.crawler4s.sprocessor.utils
+package me.charon.utils4s.kfkutils4s.utils
 
 import scala.util.{Failure, Success, Try}
 

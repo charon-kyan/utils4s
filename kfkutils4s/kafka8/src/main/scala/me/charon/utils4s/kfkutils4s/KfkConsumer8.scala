@@ -1,4 +1,4 @@
-package com.yidian.crawler4s.sprocessor
+package me.charon.utils4s.kfkutils4s
 
 import java.util.Properties
 import java.util.concurrent.Executors
