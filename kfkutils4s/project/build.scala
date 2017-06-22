@@ -2,9 +2,9 @@ import sbt.Keys._
 import sbt._
 import sbtassembly.AssemblyPlugin.autoImport._
 
-object SProcessorBuild extends Build {
+object KfkUtils4sBuild extends Build {
 
-  lazy val sprocess4sRoot = (project in file("."))
+  lazy val kfkutils4sRoot = (project in file("."))
     .aggregate(kfkutils4sBase)
     .aggregate(kfkutils4sKafka8)
     .aggregate(kfkutils4sKafka9)

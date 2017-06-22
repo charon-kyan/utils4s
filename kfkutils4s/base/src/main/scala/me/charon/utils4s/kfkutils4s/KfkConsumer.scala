@@ -1,4 +1,4 @@
-package com.yidian.crawler4s.sprocessor
+package me.charon.utils4s.kfkutils4s
 
 import java.util.concurrent.CountDownLatch
 import java.util.concurrent.atomic.AtomicBoolean
